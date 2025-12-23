@@ -196,9 +196,8 @@ MIT License
 
 ## Author
 
-[Your Name] - Finance Automation Engineer  
-[Your Email]  
-[Your LinkedIn/GitHub]
+[Oluwatoyin] - py dev  
+[]
 
 ---
 
